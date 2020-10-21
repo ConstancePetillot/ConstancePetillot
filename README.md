@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### 🏆 Mes stats Github : 
 
-https://github-profile-trophy.vercel.app/?cpetillot=ryo-ma&theme=monokai
+[![trophy](https://github-profile-trophy.vercel.app/?cpetillot=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
