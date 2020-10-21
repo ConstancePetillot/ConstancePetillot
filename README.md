@@ -29,6 +29,9 @@ Quelques infos sur moi pour commencer :
 
 <a align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=cpetillot&show_icons=true&theme=dracula)
 </a>
+<a align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=cpetillot&theme=dracula)](https://github.com/cpetillot/github-profile-trophy)
+
+</a>
 
 ### 💎 Les langages les plus utilisés dans mes répositories :
 <a align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpetillot&theme=tokyonight)
