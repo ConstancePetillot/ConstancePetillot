@@ -8,9 +8,12 @@ Here are some ideas to get you started:
 - 🌱 Actuellement, je continue d'apprendre Vue.js.
 - 📫 Comment me contacter : constance.petillot@gmail.com
 
+## 🖥 Je suis à la recherche d'une alternance en développement front
+
 ### 🏆 Mes stats Github : 
 
-[![trophy](https://github-profile-trophy.vercel.app/?cpetillot=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?cpetillot=ryo-ma&theme=monokai
+
 
 
 <!--
