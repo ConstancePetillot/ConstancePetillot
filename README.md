@@ -3,17 +3,17 @@
 🎓 Je suis étudiante développeuse front-end en deuxième année de Bachelor Web à Hetic (Montreuil - 93)
 
 
-##🖥 Je suis à la recherche d'une alternance en développement front !
+## 🖥 Je suis à la recherche d'une alternance en développement front !
 
 
 
 Quelques infos sur moi pour commencer : 
 
-- 🔭 Actuellement, je travaille sur des projets perso.
-- 🌱 Actuellement, je continue d'apprendre Vue.js.
+- 🔭 Actuellement, je travaille sur des projets perso
+- 🌱 Actuellement, je continue d'apprendre Vue.js
 - 📫 Comment me contacter : constance.petillot@gmail.com
 
-### 🧰 Langages outils:
+### 🧰 Langages et outils:
 <p align="center">
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="Css" height="40" style="vertical-align:top; margin:4px">
