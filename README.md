@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Constance but you can call me Captain 😁
 
 <!--
 **cpetillot/cpetillot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+🎓 Je suis étudiante développeuse front-end en deuxième année de Bachelor Web à Hetic (Montreuil - 93)
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actuellement, je travaille sur des projets perso.
+- 🌱 Actuellement, je continue d'apprendre Vue.js.
+- 📫 Comment me contacter : constance.petillot@gmail.com
+
+### 🏆 Mes stats Github : 
+
+[![trophy](https://github-profile-trophy.vercel.app/?cpetillot=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
