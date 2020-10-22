@@ -34,7 +34,7 @@ Quelques infos sur moi pour commencer :
 </a>
 
 ### 💎 Les langages les plus utilisés dans mes répositories :
-<a align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpetillot&theme=tokyonight)
+<a align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpetillot&theme=dracula)
 </a>
 
 <br>
