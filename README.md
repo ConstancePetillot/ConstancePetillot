@@ -1,17 +1,12 @@
 ### Hi there 👋 I'm Constance but you can call me Captain 😁
 
-🎓 Je suis étudiante développeuse front-end en deuxième année de Bachelor Web à Hetic (Montreuil - 93)
+🎓 Je suis étudiante développeuse front-end en deuxième année de Bachelor Web à Hetic (Montreuil - 93) <br>
+🖥 Et integratrice/développeuse front-end chez Meero !
 
 
-## 🖥 Je suis à la recherche d'une alternance en développement front !
+## 📫 Comment me contacter : constance.petillot@gmail.com
 
 
-
-Quelques infos sur moi pour commencer : 
-
-- 🔭 Actuellement, je travaille sur des projets perso
-- 🌱 Actuellement, je continue d'apprendre Vue.js
-- 📫 Comment me contacter : constance.petillot@gmail.com
 
 ### 🧰 Langages et outils:
 <p align="center">
@@ -27,14 +22,14 @@ Quelques infos sur moi pour commencer :
 
 ### 🏆 Mes stats Github : 
 
-<a align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=cpetillot&show_icons=true&theme=dracula)
+<a align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=ConstancePetillot&show_icons=true&theme=dracula)
 </a>
-<a align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=cpetillot&theme=dracula)](https://github.com/cpetillot/github-profile-trophy)
+<a align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=ConstancePetillot&theme=dracula)](https://github.com/ConstancePetillot/github-profile-trophy)
 
 </a>
 
 ### 💎 Les langages les plus utilisés dans mes répositories :
-<a align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpetillot&theme=dracula)
+<a align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConstancePetillot&theme=dracula)
 </a>
 
 <br>
