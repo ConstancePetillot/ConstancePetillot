@@ -36,11 +36,7 @@
 <br>
 <br>
 
-<p align="center"> <b> Bonne visite ! </b>
-</p>
-<p align="center">
-<img src="https://media3.giphy.com/media/E4LWtyQ9KiToA/giphy.gif" alt="byebye" width= 30% style="vertical-align:top; margin:4px">
-</p>
+
 
 <!--
 **cpetillot/cpetillot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
