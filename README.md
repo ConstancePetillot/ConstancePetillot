@@ -1,7 +1,7 @@
 ### Bienvenue ! 👋 
 
-🎓 Je suis étudiante développeuse front-end en deuxième année de Bachelor Web à Hetic (Montreuil - 93) <br>
-🖥  Et integratrice/développeuse front-end chez Meero !
+🎓 Je suis étudiante en troisième année de Bachelor Web à Hetic (Montreuil - 93) <br>
+🖥  Integratrice/développeuse front-end chez Meero !
 
 
 ### 🏆  Mes stats Github : 
