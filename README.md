@@ -1,8 +1,8 @@
 ### Bienvenue ! 👋 
 
 🎓 Je suis étudiante en troisième année de Bachelor Web à Hetic (Montreuil - 93) <br>
-🖥  Integratrice/développeuse front-end chez Meero 2020-2021
-🖼  Chef de projet e-commerce au Palais des Thés 2021-2022
+🖥  Integratrice/développeuse front-end chez Meero 2020-2021 <br>
+🖼  Chef de projet e-commerce au Palais des Thés 2021-2022 
 
 
 ### 🏆  Mes stats Github : 
