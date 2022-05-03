@@ -1,7 +1,8 @@
 ### Bienvenue ! 👋 
 
 🎓 Je suis étudiante en troisième année de Bachelor Web à Hetic (Montreuil - 93) <br>
-🖥  Integratrice/développeuse front-end chez Meero !
+🖥  Integratrice/développeuse front-end chez Meero 2020-2021
+🖼  Chef de projet e-commerce au Palais des Thés 2021-2022
 
 
 ### 🏆  Mes stats Github : 
@@ -12,9 +13,6 @@
 
 </a>
 
-### 💎  Les langages les plus utilisés dans mes répositories :
-<a align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConstancePetillot&theme=dracula)
-</a>
 
 <br>
 <br>
